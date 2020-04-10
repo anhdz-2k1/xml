@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes" ?>
+<employee>
+    <kitchen_staff>
+    <name language="en">Frank</name>
+    </kitchen_staff>
+    <new_hire>
+    <position langlanguage="en">Chef</position>
+    </new_hire>
+</employee>

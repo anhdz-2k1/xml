@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes" ?>
+<mydcm>
+  <employee id ="1">
+    <name>Frank</name>
+    <position>Chef</position>
+  </employee>
+  <employee id ="2">
+    <name>Frank</name>
+    <position>Chef</position>
+  </employee>
+</mydcm>
+
+
+
