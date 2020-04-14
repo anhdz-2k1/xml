@@ -1,0 +1,30 @@
+<FPTAPTECH>
+    <Student Sex="Female">
+        <Name>
+            <FName>Nguyen</FName>
+            <LName>Anh</LName>
+        </Name>
+        <Age>19</Age>
+    </Student>
+    <Student Sex="Female">
+        <Name>
+            <FName>Treo</FName>
+            <LName>Tung</LName>
+        </Name>
+        <Age>29</Age>
+    </Student>
+    <Student Sex="Male">
+        <Name>
+            <FName>Tran</FName>
+            <LName>Du</LName>
+        </Name>
+        <Age>18</Age>
+    </Student>
+    <Student Sex="Male">
+        <Name>
+            <FName>Duong</FName>
+            <LName>Anh</LName>
+        </Name>
+        <Age>19</Age>
+    </Student>
+</FPTAPTECH>
