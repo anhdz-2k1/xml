@@ -1,0 +1,29 @@
+xsampdoc{
+    margin-left: 500px;
+    width: 400px;
+}
+greeting{
+    text-align: left;
+    display: block;
+    font-weight: 500;
+    color: red;
+    font-size: 30px;
+
+}
+extension{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+    display: block;
+}
+answer extension{
+    text-align: left;
+    color: deepskyblue;
+    font-size: 25px;
+}
+question{
+    text-align: left;
+    font-size: 30px;
+}
+
