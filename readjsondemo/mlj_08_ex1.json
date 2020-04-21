@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "id": "file",
+    "value": "File",
+    "popup": {
+      "menuitem": [
+        {
+        "value":  "New",
+        "occlick": "CreateNewDoc"
+      },
+      {
+        "value":  "Open",
+        "occlick": "OpenDoc"
+      },
+      {
+        "value":  "Closee",
+        "occlick": "CloseDoc"
+      }
+      ]
+    }
+  }
+}
